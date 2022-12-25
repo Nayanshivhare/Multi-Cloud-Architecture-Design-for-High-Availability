@@ -100,3 +100,7 @@ The first thing we need to do is plan out a **High Availability solution** that 
 * Business Intelligent tool for data analysis. It will give us insight into our data and provide us with real-time analysis.
   * AWS - Elastic Search.
   * Azure- Data Explorer Cluster
+  
+  
+ ![image](https://user-images.githubusercontent.com/66699491/209476704-fb0a26b2-44c8-47a7-a6b7-215290a064a8.png)
+
