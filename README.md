@@ -1,5 +1,10 @@
 ## Multi-Cloud-Architecture-Design-for-High-Availability
-### In this architecture I have designed Multi-cloud Hybrid cloud architecture for the Health care organization. 
+### In this architecture I have designed Multi-cloud Hybrid cloud architecture for the Health care organization.
+  <img src="https://user-images.githubusercontent.com/66699491/214771251-46ec9d48-7363-4084-990d-91ab1d9e7072.png" width="500" height="300">
+
+  <img src="https://user-images.githubusercontent.com/66699491/214771343-8b39e203-1e33-4f16-aff6-cb10bf13ab19.png" width="500" height="300">
+
+
 
 ### Business Challenge
 Hospital based in USA wants to migrate data center to the cloud. And, according to their requirement they want 99.999% of availability, data privacy, and high security. Data breach can be catastrophic to the organization and put them completely out of business. Based on their goals I am designing a solution that is Highly Available and Highly secure over the  multi-hybrid-cloud infrastrucuture.
@@ -101,6 +106,10 @@ The first thing we need to do is plan out a **High Availability solution** that 
   * AWS - Elastic Search.
   * Azure- Data Explorer Cluster
   
-  
- ![image](https://user-images.githubusercontent.com/66699491/209476704-fb0a26b2-44c8-47a7-a6b7-215290a064a8.png)
+  ![image](https://user-images.githubusercontent.com/66699491/214771154-6721bef8-5147-460a-bc34-56b0022a5cbd.png)
+![image](https://user-images.githubusercontent.com/66699491/214771181-41c76b63-6c32-47c9-8b34-6c24181a2ca5.png)
+![image](https://user-images.githubusercontent.com/66699491/214771212-2cd7a266-818e-4658-b9f6-0c1ce08dddc2.png)
+![image](https://user-images.githubusercontent.com/66699491/214771251-46ec9d48-7363-4084-990d-91ab1d9e7072.png)
+
+ 
 
